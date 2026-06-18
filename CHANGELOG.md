@@ -31,3 +31,4 @@
 - fix: link the usage section
 - fix: link the usage section
 - docs: fix a small wording issue
+- chore: fix a small wording issue
